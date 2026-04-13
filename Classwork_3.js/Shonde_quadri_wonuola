@@ -1,0 +1,2 @@
+Let greetings = "HELLO COHORT 6"
+console.log(greetings)
