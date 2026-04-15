@@ -1,1 +1,1 @@
-console.log("THIS IS A SERVER FILE");
+console.log("Hello, world!"); 
