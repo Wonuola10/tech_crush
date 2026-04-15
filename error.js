@@ -45,3 +45,4 @@ function loadUserData(userId) {
 
 loadUserData("BAD-1234");   // Data loaded for user: 5  -->  Loading complete.
 // loadUserData(-1);  // Failed: User ID must be...  -->  Loading complete.
+//adding a comment to test git

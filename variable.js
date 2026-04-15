@@ -15,7 +15,7 @@ console.log (myName)
 
 myAge = 31
 console.log (myAge)
-
+//another comment to test git
 myHeight = 5.7
 console.log (myHeight)
 
